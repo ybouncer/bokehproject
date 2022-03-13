@@ -1,2 +1,3 @@
 # bokehproject
-It's a django website which running Bokeh for data visualization 
+It's a Django website using Bokeh for Dataviz
+
